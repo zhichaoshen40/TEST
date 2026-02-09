@@ -8,6 +8,7 @@
     "distributed acoustic sensing"
   ],
   "refine_keywords": [
+    "earthquake",
     "initiation",
     "rupture",
     "nucleation",
@@ -16,6 +17,10 @@
     "friction",
     "laboratory",
     "experiment",
-    "shallow"
+    "shallow",
+    "mantle",
+    "acoustic",
+    "crust",
+    "ocean"
   ]
 }
