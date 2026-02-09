@@ -3,11 +3,9 @@
     "earthquake",
     "fault",
     "seismic",
-    "seismicity",
+    "ocean",
     "marine",
-    "submarine",
-    "distributed acoustic sensing",
-    "seismo-acoustic"
+    "distributed acoustic sensing"
   ],
   "refine_keywords": [
     "initiation",
