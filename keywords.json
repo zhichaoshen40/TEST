@@ -1,26 +1,13 @@
 {
   "broad_keywords": [
-    "earthquake",
-    "fault",
-    "seismic",
-    "ocean",
-    "marine",
     "distributed acoustic sensing"
   ],
   "refine_keywords": [
-    "earthquake",
-    "initiation",
-    "rupture",
-    "nucleation",
-    "mechanism",
-    "dynamic",
-    "friction",
-    "laboratory",
-    "experiment",
-    "shallow",
-    "mantle",
+    "ocean",
+    "marine",
+    "submarine",
     "acoustic",
-    "crust",
-    "ocean"
+    "seismic",
+    "detection"
   ]
 }
