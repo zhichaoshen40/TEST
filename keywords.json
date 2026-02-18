@@ -9,8 +9,8 @@
     "acoustic",
     "seismic",
     "detection",
-    "machine learning",
     "deep learning",
-    "denoise"
+    "denoise",
+    "localization"
   ]
 }
