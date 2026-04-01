@@ -14,8 +14,8 @@ REPO_NAME = os.getenv("GITHUB_REPOSITORY")
 STATE_PATH = os.path.join(os.path.dirname(__file__), "state.json")
 #DEFAULT_WINDOW_DAYS = 30
 #MAX_SEEN_KEYS = 100  # state 中最多保留篇数，超出时删除最早进入的，以提升匹配速度
-DEFAULT_WINDOW_DAYS =360
-MAX_SEEN_KEYS = 5000  # state 中最多保留篇数，超出时删除最早进入的，以提升匹配速度
+DEFAULT_WINDOW_DAYS =30
+MAX_SEEN_KEYS = 500  # state 中最多保留篇数，超出时删除最早进入的，以提升匹配速度
 
 def _ensure_dir(path: str) -> None:
     os.makedirs(path, exist_ok=True)
