@@ -2,7 +2,7 @@
   "broad_keywords": [
     "earthquake",
     "seismic",
-    "acoustic",
+    "underwater",
     "DAS",
     "DTS",
     "DSS"
@@ -10,6 +10,7 @@
   "refine_keywords": [
     "ocean",
     "marine",
+    "acoustic"
     "glacier"
   ]
 }
