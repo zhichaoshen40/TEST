@@ -1,17 +1,13 @@
 {
   "broad_keywords": [
-    "DAS",
-    "DTS"
+    "earthquake",
   ],
   "refine_keywords": [
+    "DAS",
+    "DTS"
     "ocean",
     "marine",
     "submarine",
-    "acoustic",
-    "seismic",
-    "detection",
-    "deep learning",
-    "denoise",
-    "localization"
+    "acoustic"
   ]
 }
