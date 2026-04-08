@@ -1,10 +1,10 @@
 {
   "broad_keywords": [
-    "earthquake"
-  ],
-  "refine_keywords": [
+    "earthquake",
     "DAS",
-    "DTS",
+    "DTS"
+  ],
+  "refine_keywords": {
     "ocean",
     "marine",
     "submarine",
