@@ -24,3 +24,19 @@
     "ocean"
   ]
 }
+
+{
+  "broad_keywords": [
+    "earthquake",
+    "seismic",
+    "DAS",
+    "DTS",
+    "DSS"
+  ],
+  "refine_keywords": [
+    "ocean",
+    "marine",
+    "acoustic",
+    "glacier"
+  ]
+}
