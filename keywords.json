@@ -1,15 +1,15 @@
 {
   "broad_keywords": [
     "ocean",
-    "marine",
-    "glacier"
+    "DAS",
+    "DTS",
+    "DSS"
   ],
   "refine_keywords": [
     "earthquake",
     "seismic",
     "acoustic",
-    "DAS",
-    "DTS",
-    "DSS"
+    "marine",
+    "glacier"
   ]
 }
