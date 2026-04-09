@@ -5,14 +5,14 @@
     "underwater",
     "DAS",
     "DTS",
-    "DSS",
-    "fiber-optic"
+    "DSS"
   ],
   "refine_keywords": [
     "ocean",
     "marine",
     "acoustic",
     "glacier",
-    "noise"
+    "noise",
+    "fiber-optic"
   ]
 }
